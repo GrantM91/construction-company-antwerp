@@ -1,30 +1,35 @@
-Construction Company Antwerp — Financial Health Analysis (Power BI)
-Project Summary
+# Construction Company Antwerp — Financial Health Analysis (Power BI)
+
+## Project Summary
 This project analyzes the financial health of a construction company in Antwerp using Power BI dashboards and a written case study.
 
-Business Objective
+## Business Objective
 Provide a high-level assessment of financial performance using available transaction data (revenue, expenses, net profit, and profit margin).
 
-Tools Used
-Power BI
-Excel
-Data modeling (Date table, measures)
-Dashboard Preview
-Overview
-Overview
+## Tools Used
+- Python
+- SQL
+- Excel
+- Power BI
 
-Revenue
-Revenue
+## Dashboard Preview
 
-Expenses
-Expenses
+### Screenshot 1
+![Screenshot 1](images/12.png)
 
-Profitability
-Profitability
+### Screenshot 2
+![Screenshot 2](images/13.png)
 
-Full Report
-Download the PDF report
+### Screenshot 3
+![Screenshot 3](images/14.png)
 
-Notes
-Interactive embedding is not included due to Power BI licensing limitations.
+### Screenshot 4
+![Screenshot 4](images/15.png)
+
+
+## Full Report
+[Download the PDF report](report.pdf)
+
+## Notes
+Interactive embedding is not included due to Power BI licensing limitations.  
 This repository provides screenshots and full documentation.
